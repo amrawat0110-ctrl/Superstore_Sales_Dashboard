@@ -222,6 +222,7 @@ This project demonstrates an end-to-end introductory business intelligence workf
 
 ---
 
+**Author:** Armin Khareghat
 **Project:** Superstore Sales Analysis Dashboard  
 **Primary platform:** Microsoft Power BI Desktop  
 **Dataset:** Sample Superstore Sales (Excel)
